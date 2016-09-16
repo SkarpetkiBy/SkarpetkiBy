@@ -23,7 +23,9 @@
 .portfolio-logo-row {
   min-height: 200px;
 }
-
+.mdl-card__supporting-text p{
+  font-size: large;
+}
 .is-compact .portfolio-logo-row {
   min-height: auto;
 }
