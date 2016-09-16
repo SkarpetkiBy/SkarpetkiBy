@@ -25,6 +25,7 @@
 }
 .mdl-card__supporting-text p{
   font-size: large;
+  color: black;
 }
 .is-compact .portfolio-logo-row {
   min-height: auto;
