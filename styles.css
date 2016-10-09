@@ -176,6 +176,14 @@ footer {
   src: url('images/FordAntennaCondWGL-Light.otf');
 }
 
-body, h1, h2, h4, h5, h6, p, nav, a {
+@font-face {
+  font-family: fordMed;
+  src: url('images/FordAntennaCondWGL-Med.otf');
+}
+
+body, h1, h2, h4, h5, h6, p {
   font-family: ford;
+}
+nav, nav a {
+  font-family: fordMed;
 }
