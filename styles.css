@@ -170,4 +170,12 @@ footer {
   background-image: linear-gradient(to bottom, rgba(0,0,0,0.8) 0%,rgba(0,0,0,0.8) 100%), url('images/header-bg.jpg');
   background-size: cover;
 }
+/*FONTS*/
+@font-face {
+  font-family: ford;
+  src: url('images/FordAntennaCondWGL-Light.otf');
+}
 
+body, h1, h2, h4, h5, h6, p {
+  font-family: ford;
+}
