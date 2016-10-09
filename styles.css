@@ -187,3 +187,11 @@ body, h1, h2, h4, h5, h6, p {
 nav, nav a {
   font-family: fordMed;
 }
+.soc-fb { display: inline-block; width: 26px; height: 26px; background:  url('images/socials.png') 0 26px;}
+.soc-i { display: inline-block; width: 26px; height: 26px; background:  url('images/socials.png') 26px 26px; }
+.soc-vk { display: inline-block; width: 26px; height: 26px; background:  url('images/socials.png') 52px 26px;}
+.soc-ok { display: inline-block; width: 26px; height: 26px; background:  url('images/socials.png') 78px 26px; }
+.soc-p { display: inline-block; width: 26px; height: 26px; background:  url('images/socials.png') 104px 26px;}
+.soc-y { display: inline-block; width: 26px; height: 26px; background:  url('images/socials.png') 130px 26px;}
+.soc-s { display: inline-block; width: 26px; height: 26px; background:  url('images/socials.png') 156px 26px;}
+.soc-t { display: inline-block; width: 26px; height: 26px; background:  url('images/socials.png') 182px 26px; }
