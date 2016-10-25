@@ -1,0 +1,3 @@
+User agent: *
+Host: skarpetki.by
+Sitemap: http://skarpetki.by/sitemap.xml
