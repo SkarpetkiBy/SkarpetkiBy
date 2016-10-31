@@ -195,3 +195,5 @@ nav, nav a {
 .soc-ok { display: inline-block; width: 26px; height: 26px; background:  url('images/socials.png') 130px 26px;}
 .soc-vk { display: inline-block; width: 26px; height: 26px; background:  url('images/socials.png') 156px 26px;}
 .soc-i { display: inline-block; width: 26px; height: 26px; background:  url('images/socials.png') 182px 26px; }
+.partner-image { width: 10em; height: auto; }
+.link-partner { line-height: 10em; }
