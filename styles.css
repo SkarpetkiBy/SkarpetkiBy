@@ -180,7 +180,15 @@ footer {
   font-family: fordMed;
   src: url('images/FordAntennaCondWGL-Med.otf');
 }
-
+@font-face {
+  font-family: 'Stencil Std';
+  src: url('images/StencilStd.eot');
+  src: url('images/StencilStd.eot?#iefix') format('embedded-opentype'),
+  url('images/StencilStd.woff') format('woff'),
+  url('images/StencilStd.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
 body, h1, h2, h4, h5, h6, p {
   font-family: ford;
 }
